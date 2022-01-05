@@ -1,4 +1,4 @@
-rootProject.name = "app"
+rootProject.name = "autoinitialize"
 include ':app'
 include ':annotation'
 include ':api'
